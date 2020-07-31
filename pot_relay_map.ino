@@ -1,7 +1,7 @@
-//use A0 for pot like p.64, p.36 is other reference
+//use A0 for pot like p.64, p.36 is other reference *From basics book*
 int const potPin = A0;
 int potVal = 0;
-int digitalPin4 = 4;//putting # after ledPin seemed to work/verify
+int digitalPin4 = 4;
 int digitalPin5 = 5;
 int digitalPin6 = 6;
 int digitalPin7 = 7;
